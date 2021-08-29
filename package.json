@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Pfizzz/jest-another-rpg#readme",
   "dependencies": {
+    "inquirer": "^8.1.2",
     "jest": "^27.0.6"
   }
 }
